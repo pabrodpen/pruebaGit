@@ -1,2 +1,6 @@
 esto es un fichero
+<<<<<<< HEAD
 adios muy buenas
+=======
+hola que tal
+>>>>>>> b8e986c356cfbcbb78d3911a9d816e3803422939
